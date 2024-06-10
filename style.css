@@ -1,0 +1,55 @@
+
+/*Style to the title above the logo*/
+    h1 {
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        text-align: center;
+        color: white;
+}
+
+/*Style to the image with the HP logo*/
+    img {
+        display: block;
+        margin: auto;
+        padding-top: 10%;
+        width: 50%;
+    
+    }
+   
+    /*Style for the second part of the movie title */
+    .movie-title{
+        font-size: 25px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-align:center;
+        color: white;
+               
+    }
+
+    /*Style for the 'part 2' piece of the title*/
+    .movie-leg {
+        font-size: 20px;
+        color: white;
+    }
+
+    
+    h2 {
+       color: white;
+
+    }
+
+    h3 {
+        font-size: medium;
+        color: white;
+
+    }
+
+    /*Style for the color of the link*/
+    .movie-link {
+        color: white;
+    }
+
+
+    /*Style for the background image*/
+   html {
+    background-image: url("deathly_hallows.jpeg");
+    background-size: cover;
+   }
